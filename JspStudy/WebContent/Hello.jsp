@@ -14,6 +14,6 @@
 		out.println("<h1>"+str+"</h1>");
 		//document.wirte("str=>"+str);
 		%>
-		<%=str%>
+		str의 값 출력<%=str%>
 	</body>
 </html>
