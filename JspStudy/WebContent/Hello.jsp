@@ -14,5 +14,6 @@
 		out.println("<h1>"+str+"</h1>");
 		//document.wirte("str=>"+str);
 		%>
+		<%=str%>
 	</body>
 </html>
